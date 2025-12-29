@@ -24,18 +24,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqudoos66&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aqudoos66&layout=compact&theme=radical&hide_border=true&langs_count=8)
-  
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
