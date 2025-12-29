@@ -19,15 +19,20 @@
 - 🤝 **Looking for help with:** Code reviews, best practices, and mentoring beginners
 - 💬 **Ask me about:** Laravel, PHP, Python, Database Administration, and AI/ML
 - 📫 **How to reach me:** abdulqudoosdeveloper@gmail.com
+- 👨‍💻 **Portfolio:** [https://abdulqudoosmastoi-portfolio.free.nf/](https://abdulqudoosmastoi-portfolio.free.nf/)
+- 📄 **LinkedIn:** [https://www.linkedin.com/in/abdulqudoos-dev/](https://www.linkedin.com/in/abdulqudoos-dev/)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aqudoos66&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aqudoos66&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqudoos66&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aqudoos66&layout=compact&theme=radical&hide_border=true&langs_count=8)
+  
+</div>
 
 ---
 
@@ -56,7 +61,7 @@
 ## 🛠️ Tech Stack
 
 ### **Web Development**
-<p>
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
@@ -66,7 +71,7 @@
 </p>
 
 ### **AI & Machine Learning**
-<p>
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
@@ -75,30 +80,22 @@
 </p>
 
 ### **Databases**
-<p>
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40" />
 </p>
 
 ### **Programming Languages**
-<p>
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
 </p>
 
 ### **Tools & Others**
-<p>
+<p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
 </p>
-
----
-
-## 📌 Featured Projects
-
-> Visit my portfolio: [https://abdulqudoosmastoi-portfolio.free.nf/](https://abdulqudoosmastoi-portfolio.free.nf/)
-
-> Check out my LinkedIn: [https://www.linkedin.com/in/abdulqudoos-dev/](https://www.linkedin.com/in/abdulqudoos-dev/)
 
 ---
 
