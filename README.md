@@ -1,40 +1,91 @@
-Hi there 👋
-<h1 align="center">Hi, I'm <span style="color: #4FC0D0;">Abdul Qudoos</span> 👨‍💻</h1> <h3 align="center" style="color: #7E8EF1;">AI & Full Stack Developer | Generative AI Specialist</h3> <p align="center">Crafting intelligent web solutions with cutting-edge AI integration</p><div align="center">
-https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=400&q=80
+# 👋 Hi there, I'm Abdul Qudoos
 
-</div>
-📍 About Me
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white; margin: 20px 0;">
-"Transforming ideas into intelligent, scalable applications that bridge the gap between AI innovation and practical web solutions."
+<h3 align="center">AI & Web Application Developer | Generative AI Specialist | Full Stack Developer</h3>
 
-</div><div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;"><div style="background: #1a1a2e; padding: 20px; border-radius: 10px; border-left: 4px solid #4FC0D0;"> <h3>🚀 Currently</h3> <ul> <li>🔭 <strong>Working on:</strong> Advanced AI-powered web applications</li> <li>🌱 <strong>Learning:</strong> Generative AI & Agentic AI systems</li> <li>🎯 <strong>Goal:</strong> Building enterprise-grade AI solutions</li> </ul> </div><div style="background: #1a1a2e; padding: 20px; border-radius: 10px; border-left: 4px solid #7E8EF1;"> <h3>🤝 Collaboration</h3> <ul> <li>👯 <strong>Looking to collaborate:</strong> Innovative real-world projects</li> <li>🤝 <strong>Seeking help with:</strong> Code reviews & best practices</li> <li>💬 <strong>Ask me about:</strong> Laravel, Python, AI/ML, Databases</li> </ul> </div></div>
-🔗 Connect With Me
-<div align="center" style="margin: 40px 0;"><a href="https://www.linkedin.com/in/abdulqudoos-dev/" target="_blank" style="text-decoration: none; margin: 10px;"> <div style="background: #0A66C2; color: white; padding: 12px 25px; border-radius: 8px; display: inline-flex; align-items: center; gap: 10px; transition: transform 0.3s;"> <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg> LinkedIn </div> </a><a href="mailto:abdulqudoosdeveloper@gmail.com" target="_blank" style="text-decoration: none; margin: 10px;"> <div style="background: #EA4335; color: white; padding: 12px 25px; border-radius: 8px; display: inline-flex; align-items: center; gap: 10px; transition: transform 0.3s;"> <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path d="M24 4.5v15c0 .85-.65 1.5-1.5 1.5H21V7.387l-9 6.463-9-6.463V21H1.5C.65 21 0 20.35 0 19.5v-15c0-.425.162-.8.431-1.068C.7 3.16 1.076 3 1.5 3H2l10 7.25L22 3h.5c.425 0 .8.162 1.069.432.27.268.431.643.431 1.068z"/></svg> Email </div> </a><a href="https://abdulqudoosmastoi-portfolio.free.nf/" target="_blank" style="text-decoration: none; margin: 10px;"> <div style="background: #FF6B35; color: white; padding: 12px 25px; border-radius: 8px; display: inline-flex; align-items: center; gap: 10px; transition: transform 0.3s;"> <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg> Portfolio </div> </a></div><div align="center" style="margin-top: 20px;"> <a href="https://facebook.com/abdul.qudoos.982347" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=flat-square" alt="Facebook" /> </a> <a href="https://instagram.com/abdul_qudoos_mastoi" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-square" alt="Instagram" /> </a> <a href="https://twitter.com/yourusername" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=flat-square" alt="Twitter" /> </a> </div>
-🛠️ Tech Stack
-✨ Web Development
-<div align="center" style="margin: 30px 0;"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> </div>
-🤖 AI & Machine Learning
-<div align="center" style="margin: 30px 0;"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /> </div>
-🗄️ Databases
-<div align="center" style="margin: 30px 0;"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" /> </div>
-⚙️ Tools & Others
-<div align="center" style="margin: 30px 0;"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> </div>
-📊 GitHub Stats
-<div align="center" style="margin: 40px 0;">
-https://github-readme-stats.vercel.app/api?username=aqudoos66&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=4FC0D0&icon_color=7E8EF1&text_color=ffffff
-https://github-readme-streak-stats.herokuapp.com/?user=aqudoos66&theme=radical&hide_border=true&background=0d1117&stroke=4FC0D0&ring=7E8EF1&fire=FF6B35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff
+---
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=aqudoos66&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=4FC0D0&text_color=ffffff
+## 🚀 About Me
 
-</div>
-<div align="center" style="margin-top: 40px; padding: 20px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 15px;">
-🚀 Let's Build Something Amazing!
-Ready to collaborate on innovative projects?
-Let's connect and create solutions that make a difference!
+- 🔭 **Currently working on:** AI & Web Application Development  
+- 🌱 **Currently learning:** Generative AI & Agentic AI concepts  
+- 👯 **Looking to collaborate on:** Real-world projects with innovative solutions  
+- 🤝 **Looking for help with:** Code reviews, best practices, and mentoring beginners  
+- 💬 **Ask me about:** Laravel, PHP, Python, Database Administration, and AI/ML  
+- 📫 **Reach me at:** [abdulqudoosdeveloper@gmail.com](mailto:abdulqudoosdeveloper@gmail.com)  
+- 👨‍💻 **Portfolio:** [abdulqudoosmastoi-portfolio.free.nf](https://abdulqudoosmastoi-portfolio.free.nf/)  
+- 📄 **LinkedIn:** [linkedin.com/in/abdulqudoos-dev](https://www.linkedin.com/in/abdulqudoos-dev/)  
 
-📧 Email: abdulqudoosdeveloper@gmail.com
-🔗 LinkedIn: Abdul Qudoos
-🌐 Portfolio: View Portfolio
+---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aqudoos66&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> </p></div>
-<div align="center" style="margin-top: 20px; color: #888; font-size: 0.9em;"> ⚡ <strong>Innovating at the intersection of AI and Web Development</strong> ⚡ </div><style> a:hover > div { transform: translateY(-5px); box-shadow: 0 10px 20px rgba(0,0,0,0.2); } </style>
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulqudoos-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://abdulqudoosmastoi-portfolio.free.nf/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:abdulqudoosdeveloper@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://facebook.com/abdul.qudoos.982347" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/abdul_qudoos_mastoi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Web Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
+</p>
+
+### AI & Machine Learning
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" />
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40" />
+</p>
+
+### Programming Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+</p>
+
+### Tools & Others
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aqudoos66&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aqudoos66&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
