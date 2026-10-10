@@ -1,91 +1,83 @@
-# 👋 Hi there, I'm Abdul Qudoos
+<div align="center">
 
-<h3 align="center">AI & Web Application Developer | Generative AI Specialist | Full Stack Developer</h3>
+# Abdul Qudoos
+
+### Full Stack Developer
+
+Building scalable web applications and AI-powered solutions with Laravel, PHP, and Python.
+
+<p>
+  <a href="https://www.linkedin.com/in/abdulqudoos-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://abdulqudoos-developer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:abdulqudoosdeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=aqudoos66&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 **Currently working on:** AI & Web Application Development  
-- 🌱 **Currently learning:** Generative AI & Agentic AI concepts  
-- 👯 **Looking to collaborate on:** Real-world projects with innovative solutions  
-- 🤝 **Looking for help with:** Code reviews, best practices, and mentoring beginners  
-- 💬 **Ask me about:** Laravel, PHP, Python, Database Administration, and AI/ML  
-- 📫 **Reach me at:** [abdulqudoosdeveloper@gmail.com](mailto:abdulqudoosdeveloper@gmail.com)  
-- 👨‍💻 **Portfolio:** [abdulqudoosmastoi-portfolio.free.nf](https://abdulqudoosmastoi-portfolio.free.nf/)  
-- 📄 **LinkedIn:** [linkedin.com/in/abdulqudoos-dev](https://www.linkedin.com/in/abdulqudoos-dev/)  
+Full Stack Developer with hands-on experience in building end-to-end web applications, designing databases, and integrating AI/ML capabilities. I enjoy turning real-world problems into clean, maintainable software.
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdulqudoos-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://abdulqudoosmastoi-portfolio.free.nf/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:abdulqudoosdeveloper@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://facebook.com/abdul.qudoos.982347" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/abdul_qudoos_mastoi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+| | |
+|---|---|
+| **Current Focus** | Full stack web application development and AI integration |
+| **Learning** | Generative AI and Agentic AI |
+| **Expertise** | Laravel, PHP, Python, Database Administration, AI/ML |
+| **Open To** | Collaboration on real-world projects with innovative solutions |
+| **Interested In** | Code reviews, best practices, and mentoring beginners |
+| **Contact** | [abdulqudoosdeveloper@gmail.com](mailto:abdulqudoosdeveloper@gmail.com) |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Web Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-</p>
+**Frontend**
 
-### AI & Machine Learning
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40" />
-</p>
+**Backend**
 
-### Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-</p>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-### Tools & Others
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-</p>
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**AI & Machine Learning**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aqudoos66&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aqudoos66&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqudoos66&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aqudoos66&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+---
+
+<div align="center">
+  <sub>Let's build something great together.</sub>
+</div>
